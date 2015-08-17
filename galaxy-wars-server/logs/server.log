@@ -1,0 +1,96 @@
+Aug 14, 2015 10:05:23 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory logs exists. Yay! Don't do anything.
+Aug 14, 2015 10:05:23 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory data exists. Yay! Don't do anything.
+Aug 14, 2015 10:05:23 AM net.minecrunch.gws.Server$1 run
+INFO: Waiting for clients to connect...
+Aug 14, 2015 10:05:37 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 14, 2015 10:05:37 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 14, 2015 10:05:37 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 14, 2015 10:09:54 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory logs exists. Yay! Don't do anything.
+Aug 14, 2015 10:09:54 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory data exists. Yay! Don't do anything.
+Aug 14, 2015 10:09:54 AM net.minecrunch.gws.Server$1 run
+INFO: Waiting for clients to connect...
+Aug 14, 2015 10:09:59 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 14, 2015 10:09:59 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 14, 2015 10:09:59 AM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:17:39 PM net.minecrunch.gws.Server MakeDir
+INFO: The directory logs exists. Yay! Don't do anything.
+Aug 16, 2015 9:17:39 PM net.minecrunch.gws.Server MakeDir
+INFO: The directory data exists. Yay! Don't do anything.
+Aug 16, 2015 9:17:39 PM net.minecrunch.gws.Server$1 run
+INFO: Waiting for clients to connect...
+Aug 16, 2015 9:17:48 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:17:48 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:17:48 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:17:53 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:17:53 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:17:53 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:19:05 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:19:05 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:19:05 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:19:13 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:19:13 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:19:13 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:19:54 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:19:54 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:19:54 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:20:46 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:20:46 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:20:46 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:33:35 PM net.minecrunch.gws.Server MakeDir
+INFO: The directory logs exists. Yay! Don't do anything.
+Aug 16, 2015 9:33:35 PM net.minecrunch.gws.Server MakeDir
+INFO: The directory data exists. Yay! Don't do anything.
+Aug 16, 2015 9:33:35 PM net.minecrunch.gws.Server$1 run
+INFO: Waiting for clients to connect...
+Aug 16, 2015 9:33:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:33:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:33:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:34:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:34:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:34:41 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 16, 2015 9:36:11 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Got a client !
+Aug 16, 2015 9:36:11 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Connection from: /127.0.0.1
+Aug 16, 2015 9:36:11 PM net.minecrunch.gws.Server$ClientTask run
+INFO: Data has been sent.
+Aug 17, 2015 5:37:26 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory logs exists. Yay! Don't do anything.
+Aug 17, 2015 5:37:26 AM net.minecrunch.gws.Server MakeDir
+INFO: The directory data exists. Yay! Don't do anything.
+Aug 17, 2015 5:37:26 AM net.minecrunch.gws.Server$1 run
+INFO: Waiting for clients to connect...

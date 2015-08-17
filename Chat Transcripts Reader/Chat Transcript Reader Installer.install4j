@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install4j version="3.2.4">
+  <directoryPresets config="C:/Users/tstreit.BELTRAILWAY" />
+  <application name="Chat Transcript Reader" distributionSourceDir="" applicationId="2082-3739-3090-1948" mediaDir="C:/Users/tstreit.BELTRAILWAY/Chat Transcripts Reader" mediaFilePattern="%SHORT_NAME%_%PLATFORM%_%VERSION%" compression="6" lzmaCompression="false" keepModificationTimes="false" shortName="ChatTranscript" publisher="" publisherWeb="" version="1.2" allPathsRelative="false" backupOnSave="false" autoSave="false" macSignature="????" javaMinVersion="1.7" javaMaxVersion="" allowBetaVM="false">
+    <searchSequence>
+      <registry />
+      <envVar name="JAVA_HOME" />
+      <envVar name="JDK_HOME" />
+    </searchSequence>
+    <variables />
+  </application>
+  <files>
+    <mountPoints>
+      <mountPoint name="" id="1" location="" mode="755" />
+    </mountPoints>
+    <entries>
+      <dirEntry mountPoint="1" file="C:/Users/tstreit.BELTRAILWAY/Chat Transcripts Reader" overwrite="4" shared="false" mode="644" dontUninstall="true" excludeSuffixes="" dirMode="755">
+        <exclude>
+          <entry location=".DS_Store" launcher="false" />
+          <entry location="build" launcher="false" />
+          <entry location="build.xml" launcher="false" />
+          <entry location="dist/README.TXT" launcher="false" />
+          <entry location="lib" launcher="false" />
+          <entry location="manifest.mf" launcher="false" />
+          <entry location="nbproject" launcher="false" />
+          <entry location="src" launcher="false" />
+        </exclude>
+      </dirEntry>
+    </entries>
+    <components />
+  </files>
+  <launchers>
+    <launcher name="Chat Transcript Reader" id="2" external="false" excludeFromMenu="false" menuName="" icnsFile="" pngIcon16File="" pngIcon32File="" macServiceDependencies="" allowUserChangeServiceStartType="true">
+      <executable name="Chat Transcript Reader" type="1" iconSet="false" iconFile="" executableDir="." redirectStderr="true" stderrFile="error.log" redirectStdout="false" stdoutFile="output.log" failOnStderrOutput="true" executableMode="1" changeWorkingDirectory="true" workingDirectory="." singleInstance="false" serviceStartType="2" serviceDependencies="" serviceDescription="" jreLocation="">
+        <versionInfo include="false" fileVersion="" companyName="" fileDescription="" legalCopyright="" productVersion="" internalName="" />
+      </executable>
+      <splashScreen show="false" autoOff="true" alwaysOnTop="true" width="0" height="0" bitmapFile="">
+        <text>
+          <statusLine x="20" y="20" text="" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+          <versionLine x="20" y="40" text="version %VERSION%" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+        </text>
+      </splashScreen>
+      <java mainClass="chat.transcripts.reader.Main" vmParameters="" arguments="" allowVMPassthroughParameters="true" minVersion="" maxVersion="" preferredVM="" allowBetaVM="false" jdkOnly="false">
+        <searchSequence>
+          <registry />
+          <envVar name="JAVA_HOME" />
+          <envVar name="JDK_HOME" />
+        </searchSequence>
+        <classPath>
+          <scanDirectory location="dist" failOnError="false" />
+          <scanDirectory location="." failOnError="false" />
+        </classPath>
+        <nativeLibraryDirectories />
+      </java>
+      <includedFiles />
+    </launcher>
+  </launchers>
+  <installerGui installerType="1" runUninstallerOnUpdate="false" addOnAppId="" suggestPreviousLocations="true" allowUnattendedInstall="false" useCustomHeaderImage="false" customHeaderImage="" customSize="false" customWidth="500" customHeight="390">
+    <customCode preAction="false" preActionClass="" postAction="false" postActionClass="" preUninstallAction="false" preUninstallActionClass="" postUninstallAction="false" postUninstallActionClass="" initHandler="false" initHandlerClass="" directoryValidator="false" directoryValidatorClass="" installationHandler="false" installationHandlerClass="" />
+    <standardScreens>
+      <screen id="welcome" enabled="true" useCustomBanner="false" bannerImageFile="" background="255,255,255" />
+      <screen id="license" enabled="false" file="" />
+      <screen id="location" enabled="true" showSpace="true" suggestAppDir="true" />
+      <screen id="components" enabled="true" allSelected="true" firstMandatory="true">
+        <selectedComponents />
+        <mandatoryComponents />
+      </screen>
+      <screen id="programGroup" enabled="true" />
+      <screen id="fileAssociations" enabled="true">
+        <associations />
+      </screen>
+      <screen id="services" enabled="true" allSelected="true">
+        <selectedServiceLaunchers />
+      </screen>
+      <screen id="additionalTasks" enabled="true" customTasksPlacement="1">
+        <customTasks />
+      </screen>
+      <screen id="preInfo" enabled="false" file="" />
+      <screen id="install" enabled="true" />
+      <screen id="postInfo" enabled="false" file="" />
+      <screen id="finished" enabled="true" useCustomBanner="false" bannerImageFile="" background="255,255,255" />
+    </standardScreens>
+    <customScreens />
+  </installerGui>
+  <mediaSets>
+    <win32 name="Windows" id="3" mediaFileName="" installDir="ChatTranscript" allLaunchers="false" includedJRE="windows-x86-1.7.0_51" manualJREEntry="false" bundleType="1" jreURL="" jreFtpURL="" jreShared="false" customInstallBaseDir="" allowUserStartAfterFinish="false" launchExecutableId="" createUninstallIcon="true" overrideLicenseFile="false" licenseFile="" overridePreInformationFile="false" preInformationFile="" overridePostInformationFile="false" postInformationFile="" adminRequired="false" languageID="en" modeDesktopIcon="3" desktopLauncherId="2" programGroup="Chat Transcript Reader" allowUserDisableStartMenuCreation="false" reboot="false" rebootUninstaller="false" modeQuickLaunchIon="2">
+      <selectedLaunchers>
+        <launcher id="2" />
+      </selectedLaunchers>
+      <messageSet language="English" />
+      <exclude />
+      <variables />
+      <excludedScreenIds />
+      <additionalStartMenuEntries />
+    </win32>
+    <unixInstaller name="Unix Installer" id="4" mediaFileName="" installDir="ChatTranscript" allLaunchers="true" includedJRE="" manualJREEntry="false" bundleType="1" jreURL="" jreFtpURL="" jreShared="false" customInstallBaseDir="" allowUserStartAfterFinish="false" launchExecutableId="" createUninstallIcon="true" overrideLicenseFile="false" licenseFile="" overridePreInformationFile="false" preInformationFile="" overridePostInformationFile="false" postInformationFile="" adminRequired="false" languageID="en" modeDesktopIcon="1" desktopLauncherId="" customScriptMode="1" customScriptFile="">
+      <selectedLaunchers />
+      <messageSet language="English" />
+      <exclude>
+        <entry location="Chat Transcript Reader Installer.install4j" launcher="false" />
+        <entry location="ChatTranscript_windows_1_0.exe" launcher="false" />
+      </exclude>
+      <variables />
+      <excludedScreenIds />
+      <customScriptLines />
+    </unixInstaller>
+  </mediaSets>
+  <buildIds buildAll="true" />
+</install4j>
+
