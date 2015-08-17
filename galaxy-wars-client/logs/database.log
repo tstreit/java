@@ -150,3 +150,15 @@ Aug 17, 2015 10:16:56 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStat
 INFO: Database table exist, you're safe....for now.
 Aug 17, 2015 10:16:56 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
 INFO: Nickname: Test Server Address: localhost Port Number: 6669
+Aug 17, 2015 11:56:56 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Database table exist, you're safe....for now.
+Aug 17, 2015 11:56:56 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Nickname: Test Server Address: localhost Port Number: 6669
+Aug 17, 2015 11:59:02 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Database table exist, you're safe....for now.
+Aug 17, 2015 11:59:02 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Nickname: Test Server Address: localhost Port Number: 6669
+Aug 17, 2015 11:59:35 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Database table exist, you're safe....for now.
+Aug 17, 2015 11:59:35 AM net.minecrunch.gwc.BuildDatabase selectWithPreparedStatement
+INFO: Nickname: Test Server Address: localhost Port Number: 6669

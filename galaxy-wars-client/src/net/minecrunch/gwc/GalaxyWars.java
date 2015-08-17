@@ -105,8 +105,7 @@ public class GalaxyWars extends JFrame {
 				if (bg.exists()) {
 					logger.info("The background file exists. Yay! Don't do anything.");
 				} else {
-					//URL website = new URL("http://www.minecrunch.net/images/starfield.jpg");
-					URL website = new URL("https://bitbucket.org/tstreit/java/src/8dba4dc9a5a98490828180c3f46be451e279e826/galaxy-wars-client/resources/starfield.jpg?at=master");
+					URL website = new URL("https://raw.githubusercontent.com/tstreit/java/master/galaxy-wars-client/starfield.jpg");
 					ReadableByteChannel rbc = Channels.newChannel(website.openStream());
 					fos = new FileOutputStream("resources/starfield.jpg");
 					fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
